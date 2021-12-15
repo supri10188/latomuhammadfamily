@@ -1,24 +1,85 @@
-﻿[{
-                        "head": "A",
-                        "id": "aa",
-                        "contents": "A Contents",
-                        "children": [
-                            {
-                                "head": "A-1",
-                                "id": "a1",
-                                "contents": "A-1 Contents",
-                                "children": [
-                                    { "head": "A-1-1", "id": "a11", "contents": "A-1-1 Contents" }
-                                ]
-                            },
-                            {
-                                "head": "A-2",
-                                "id": "a2",
-                                "contents": "A-2 Contents",
-                                "children": [
-                                    { "head": "A-2-1", "id": "a21", "contents": "A-2-1 Contents" },
-                                    { "head": "A-2-2", "id": "a22", "contents": "A-2-2 Contents" }
-                                ]
-                            }
-                        ]
-                    }]
+[{
+                 head: 'Alm. Lato Muhammad', id: 'aa',contents: 'Tgl lahir:',
+                 children: [
+                     { head: 'Wa Ibrhamin', id: 'a1', contents: 'Tgl lahir:' },
+					 { head: 'Wa Mintang', id: 'a2', contents: 'Tgl lahir:' },
+					 { head: 'Wa latif', id: 'a3', contents: 'Tgl lahir:',
+                         children: [
+                             { head: 'Rahmat (Nogo)', id: 'a42', contents: 'Tgl lahir:' },                             
+							 { head: 'Hj.Sena', id: 'a4', contents: 'Tgl lahir:' ,
+                                 children: [
+                                     { head: 'Andika', id: 'a41', contents: 'Tgl lahir:' }
+                                 ]},
+                             { head: 'Hana', id: 'a43', contents: 'Tgl lahir:' },
+                             { head: 'Hamsiah', id: 'a44', contents: 'Tgl lahir:' },
+                             { head: 'Mansah', id: 'a45', contents: 'Tgl lahir:' },
+                             { head: 'Tontong', id: 'a46', contents: 'Tgl lahir:' },
+                             { head: 'Takim', id: 'a47', contents: 'Tgl lahir:' },
+                             { head: 'Ijam', id: 'a48', contents: 'Tgl lahir:' }
+
+                         ]
+				     },
+					 { head: 'Hj.Indare', id: 'a6', contents: 'Tgl lahir:',
+                         children: [
+                             { head: 'Hj.Judding', id: 'a7', contents: 'Tgl lahir:',
+							     children: [
+                                     { head: 'Saha', id: 'a8', contents: 'Tgl lahir:' },
+                                     { head: 'Mustamin', id: 'a9', contents: 'Tgl lahir:' },
+                                     { head: 'Nurlinda', id: 'a10', contents: 'Tgl lahir:', 
+ 							             children: [
+                                             { head: 'Muhammad Aditya Ramadhan ', id: 'a11', contents: 'Tgl lahir: 12-8-2012' },
+                                             { head: 'Adzriel Rafiq Syahputra', id: 'a12', contents: 'Tgl lahir: 5-4-2017' }
+                                 ]}
+                                 ] 
+						     }   
+                         ]
+                     },
+                     { head: 'Alm. Dg. Taher', id: 'a13', contents: 'Tgl lahir:',
+                         children: [
+                             { head: 'Alm. Siti Maryam', id: 'a14', contents: 'Tgl lahir:',
+                                 children: [
+                                     { head: 'Lukman', id: 'a15', contents: 'Tgl lahir:' },
+                                     { head: 'Herman', id: 'a16', contents: 'Tgl lahir:' },
+                                     { head: 'Darwia', id: 'a17', contents: 'Tgl lahir:'	},
+                                     { head: 'Juheria', id: 'a18', contents: 'Tgl lahir:' },
+                                     { head: 'Amran', id: 'a19', contents: 'Tgl lahir:' }
+                                 ] 
+						     },
+					         { head: 'Siti Fatimah', id: 'a20', contents: 'Tgl lahir:',
+                                 children: [
+                                     { head: 'Sabariah', id: 'a21', contents: 'Tgl lahir:', 
+ 							             children: [
+                                             { head: 'Essya', id: 'a29', contents: 'Tgl lahir: ' },
+                                             { head: 'Edlin', id: 'a30', contents: 'Tgl lahir: ' },
+                                             { head: 'Irfan', id: 'a31', contents: 'Tgl lahir: ' }
+                                         ]},
+                                     { head: 'Sanawiyah', id: 'a22', contents: 'Tgl lahir:', 
+ 							             children: [
+                                             { head: 'Daffa ', id: 'a32', contents: 'Tgl lahir: ' },
+                                             { head: 'Aril', id: 'a33', contents: 'Tgl lahir: ' },
+                                             { head: 'Hisyam', id: 'a34', contents: 'Tgl lahir: ' }
+                                         ]},
+                                     { head: 'Rama', id: 'a23', contents: 'Tgl lahir:'},
+                                     { head: 'Arimbi', id: 'a24', contents: 'Tgl lahir:' },
+                                     { head: 'Wulan', id: 'a25', contents: 'Tgl lahir:' },
+                                     { head: 'Restu',  id: 'a26', contents: 'Tgl lahir:'	},
+                                     { head: 'Putra', id: 'a27', contents: 'Tgl lahir:' },
+                                     { head: 'Teguh', id: 'a28', contents: 'Tgl lahir:' }
+                                 ] 
+						     },
+					         { head: 'Syahruddin', id: 'a35', contents: 'Tgl lahir:',
+                                 children: [
+                                     { head: 'Anin', id: 'a36', contents: 'Tgl lahir:' }
+                                 ] 
+						     },
+							 { head: 'Siti Masitah', id: 'a37', contents: 'Tgl lahir:',
+                                 children: [
+                                     { head: 'Herzal', id: 'a38', contents: 'Tgl lahir:' },
+                                     { head: 'Vino', id: 'a39', contents: 'Tgl lahir:' },
+                                     { head: 'Chanita', id: 'a40', contents: 'Tgl lahir:'	}
+                                 ] 
+						     },
+                         ]
+                    }
+                ]
+            }]
