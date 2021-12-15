@@ -25,7 +25,7 @@
 
     .tree li .trcont {
         /*cursor: pointer;*/
-        width: 150px;
+        width: auto;
         /*border: 1px solid #ccc;
                 padding: 5px 10px;*/
         /*text-decoration: none;*/
