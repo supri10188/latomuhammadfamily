@@ -166,7 +166,7 @@
 
 #heading{
     float: left;
-    width: 100%;
+    width: 100000000000px;
 }
 #heading a {
     line-height: 65px;
@@ -178,7 +178,7 @@
 }
 #menu {
     background:#26C4C2;
-    width: 100%;
+    width: 100000000000px;
     height: 65px;
     margin: 0px;
     padding: 0px;
